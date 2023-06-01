@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Data Science**
 
-- 👨‍💻 All of my projects are available at [https://github.com/akshaygp18?tab=repositories](https://github.com/akshaygp18)
+- 👨‍💻 All of my projects are available at [https://github.com/akshaygp18](https://github.com/akshaygp18?tab=repositories)
 
 - 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Snowflake**
 
