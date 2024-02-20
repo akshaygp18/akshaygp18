@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaygp18&label=Profile%20views&color=0e75b6&style=flat" alt="akshaygp18" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning Projects**
+- 🔭 I’m currently working on **NLP Projects**
 
-- 🌱 I’m currently learning **Deep Learning, Computer Vision**
+- 🌱 I’m currently learning **NLP**
 
 - 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshaygp18](https://github.com/akshaygp18?tab=repositories)
 
-- 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Snowflake**
+- 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision, NLP**
 
 - 📫 How to reach me **akshaygp41@gmail.com**
 
