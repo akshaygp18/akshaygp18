@@ -6,13 +6,13 @@
 
 - 🔭 I’m currently working on **GEN AI Projects**
 
-- 🌱 I’m currently learning **GEN AI TOOLS**
+- 🌱 I’m currently learning **GEN AI Tools**
 
 - 🤝 I’m looking for help with **Data Science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/akshaygp18](https://github.com/akshaygp18?tab=repositories)
 
-- 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision, NLP**
+- 💬 Ask me about **SQL, Power BI, Python, Machine Learning, Statistics, AWS, Snowflake, Deep Learning, Computer Vision, NLP, GEN AI**
 
 - 📫 How to reach me **akshaygp41@gmail.com**
 
