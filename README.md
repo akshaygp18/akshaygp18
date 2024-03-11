@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaygp18&label=Profile%20views&color=0e75b6&style=flat" alt="akshaygp18" /> </p>
 
-- 🔭 I’m currently working on **NLP Projects**
+- 🔭 I’m currently working on **GEN AI Projects**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **GEN AI TOOLS**
 
 - 🤝 I’m looking for help with **Data Science**
 
